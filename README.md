@@ -6,9 +6,9 @@ could also be used in business meeting etc
 
 Procedure For Creating 
 
-•	Modelling the HTML5 to create the structure of the web application adding CSS3 for designing the project 
-•	With the help of JS predefine library canvas which create canvas for the white board 
-• with help of socket.io and express made it real time sharable 
+•	Modelling the HTML5 to create the structure of the web application adding CSS3 for designing the project <br>
+•	With the help of JS predefine library canvas which create canvas for the white board <br>
+• with help of socket.io and express made it real time sharable <br>
 
 // start this project // 
 node app.js 

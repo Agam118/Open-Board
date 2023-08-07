@@ -10,5 +10,5 @@ Procedure For Creating
 •	With the help of JS predefine library canvas which create canvas for the white board <br>
 • with help of socket.io and express made it real time sharable <br>
 
-// start this project // 
-node app.js 
+<i> start this project <i> <br>
+<b>node app.js<b>
